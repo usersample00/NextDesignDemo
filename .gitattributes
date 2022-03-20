@@ -1,0 +1,6 @@
+*.nproj merge=NDMerge
+*.nmdl  merge=NDMerge
+*.nprof merge=NDMerge
+*.iproj  merge=NDMerge
+*.imdl   merge=NDMerge
+*.iprof  merge=NDMerge
