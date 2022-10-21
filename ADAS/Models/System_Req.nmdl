@@ -1485,11 +1485,11 @@
     {
       "Id": "7745be25-8020-415e-8e7b-f085143916ed",
       "EntityType": "Entity",
-      "Name": "車線維持アシスト(TBD)",
+      "Name": "車線維持アシスト",
       "MetamodelId": "ce4a9f00-209d-4dca-a83c-824669eef774",
       "Metamodel": "ユースケース",
       "Fields": {
-        "Name": "車線維持アシスト(TBD)",
+        "Name": "車線維持アシスト",
         "Description": "車線の中央を走行するよう常時ステアリング制御を行う",
         "DesignPolicy": ""
       }
