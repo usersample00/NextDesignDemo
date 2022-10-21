@@ -1622,6 +1622,16 @@
       }
     },
     {
+      "Id": "819cd5df-1efd-4d2b-a76a-29be8160ad23",
+      "EntityType": "Entity",
+      "Name": "シナリオ",
+      "MetamodelId": "ed1cf375-5c2b-4927-887e-7c3f00681c44",
+      "Metamodel": "シナリオ",
+      "Fields": {
+        "Name": "シナリオ"
+      }
+    },
+    {
       "Id": "834eb30f-fe2f-4515-8e4d-ba1e97485e02",
       "EntityType": "PlElement",
       "Name": "タップダウン",
@@ -5518,6 +5528,15 @@
       "SourceId": "ef1be31a-8e50-4f40-ac30-d727a9e339b8",
       "TargetId": "6dcf7b43-268a-4768-ad30-e52995808b7b",
       "SourceIndex": 2,
+      "TargetIndex": -1
+    },
+    {
+      "Id": "bff167ee-5726-461d-b99a-750230961578",
+      "RelationType": "Embed",
+      "MetamodelId": "94b27381-8196-4fb0-ad7e-af124daa73d7",
+      "Metamodel": "___anonymous___UseCase_Scenarios",
+      "SourceId": "7745be25-8020-415e-8e7b-f085143916ed",
+      "TargetId": "819cd5df-1efd-4d2b-a76a-29be8160ad23",
       "TargetIndex": -1
     },
     {
