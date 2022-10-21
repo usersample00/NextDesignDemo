@@ -1507,6 +1507,16 @@
       }
     },
     {
+      "Id": "7906cbec-fae3-4a2a-9732-5d7cfe3b1221",
+      "EntityType": "Entity",
+      "Name": "シナリオ",
+      "MetamodelId": "ed1cf375-5c2b-4927-887e-7c3f00681c44",
+      "Metamodel": "シナリオ",
+      "Fields": {
+        "Name": "シナリオ"
+      }
+    },
+    {
       "Id": "7a41c167-09d5-4fce-b4b6-ab7861565b46",
       "EntityType": "PlElement",
       "Name": "アクセラレート",
@@ -6228,6 +6238,15 @@
       "SourceId": "dd1a2e56-6f5a-4dcf-8e41-8e2df2609084",
       "TargetId": "e2a885c4-4df4-4ed3-a24a-c050b2220ea5",
       "SourceIndex": 13,
+      "TargetIndex": -1
+    },
+    {
+      "Id": "f802c10b-2e15-49a2-a636-2c5a46169df5",
+      "RelationType": "Embed",
+      "MetamodelId": "94b27381-8196-4fb0-ad7e-af124daa73d7",
+      "Metamodel": "___anonymous___UseCase_Scenarios",
+      "SourceId": "876e8d54-cb73-4618-94c6-2a52552e7803",
+      "TargetId": "7906cbec-fae3-4a2a-9732-5d7cfe3b1221",
       "TargetIndex": -1
     },
     {
